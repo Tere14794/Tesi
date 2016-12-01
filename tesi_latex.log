@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  30 NOV 2016 17:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  1 DEC 2016 12:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -177,13 +177,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
-)
+ [1
+
+])
 \tf@toc=\write3
 \openout3 = `tesi_latex.toc'.
 
- [1
-
-]
+ [2]
 Capitolo 1.
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
@@ -272,13 +272,13 @@ Missing character: There is no à in font cmr12!
 Missing character: There is no è in font cmr12!
 Missing character: There is no ù in font cmr12!
 Missing character: There is no à in font cmr12!
-[2
+[3
 
-] [3] [4] [5]
+] [4] [5] [6]
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 Missing character: There is no à in font cmr12!
- <dagherrotipo.jpg, id=24, 401.5pt x 258.9675pt>
+ <dagherrotipo.jpg, id=28, 401.5pt x 258.9675pt>
 File: dagherrotipo.jpg Graphic file (type jpg)
 
 <use dagherrotipo.jpg>
@@ -291,7 +291,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--126
 
  []
 
-[6 <./dagherrotipo.jpg>]
+[7 <./dagherrotipo.jpg>]
 Missing character: There is no à in font cmr12!
 Missing character: There is no à in font cmr12!
 Missing character: There is no è in font cmr12!
@@ -301,18 +301,18 @@ Missing character: There is no à in font cmr12!
 Missing character: There is no è in font cmr12!
 Missing character: There is no à in font cmr12!
 Missing character: There is no ù in font cmr12!
- [7] [8]
+ [8] [9]
 Missing character: There is no è in font cmr12!
 Missing character: There is no è in font cmr12!
 Missing character: There is no è in font cmr12!
- [9]
-<SLR_cross_section.jpg, id=38, 301.125pt x 245.41687pt>
+ [10]
+<SLR_cross_section.jpg, id=41, 301.125pt x 245.41687pt>
 File: SLR_cross_section.jpg Graphic file (type jpg)
 
 <use SLR_cross_section.jpg>
 Package pdftex.def Info: SLR_cross_section.jpg used on input line 192.
 (pdftex.def)             Requested size: 180.67638pt x 147.25125pt.
- [10 <./SLR_cross_section.jpg>] [11] [12] [13]
+ [11 <./SLR_cross_section.jpg>] [12] [13] [14]
 Capitolo 2.
 Missing character: There is no ò in font cmr12!
 Missing character: There is no ì in font cmr12!
@@ -347,11 +347,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 267--361
 
  []
 
-[14
+[15
 
-] [15] [16] [17] [18]
+] [16] [17] [18] [19]
 Capitolo 3.
-[19
+[20
 
 ]
 Missing character: There is no è in font cmr12!
@@ -361,14 +361,14 @@ Missing character: There is no é in font cmr12!
 Missing character: There is no à in font cmr12!
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 448.
- [20] [21] <cartellino.jpg, id=77, 1140.26pt x 883.3pt>
+ [21] [22] <cartellino.jpg, id=80, 1140.26pt x 883.3pt>
 File: cartellino.jpg Graphic file (type jpg)
 
 <use cartellino.jpg>
 Package pdftex.def Info: cartellino.jpg used on input line 452.
 (pdftex.def)             Requested size: 273.66798pt x 211.99632pt.
- [22 <./cartellino.jpg>]
-<datt.jpg, id=84, 406.8801pt x 144.90135pt>
+ [23 <./cartellino.jpg>]
+<datt.jpg, id=87, 406.8801pt x 144.90135pt>
 File: datt.jpg Graphic file (type jpg)
  <use datt.jpg>
 Package pdftex.def Info: datt.jpg used on input line 466.
@@ -378,13 +378,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 470--484
 
  []
 
-[23 <./datt.jpg>] [24] <rilievi.jpg, id=92, 582.175pt x 517.935pt>
+[24 <./datt.jpg>] [25] <rilievi.jpg, id=95, 582.175pt x 517.935pt>
 File: rilievi.jpg Graphic file (type jpg)
 
 <use rilievi.jpg>
 Package pdftex.def Info: rilievi.jpg used on input line 517.
 (pdftex.def)             Requested size: 291.08679pt x 258.96686pt.
- <sopralluogo.jpg, id=93, 857.2025pt x 550.055pt>
+ <sopralluogo.jpg, id=96, 857.2025pt x 550.055pt>
 File: sopralluogo.jpg Graphic file (type jpg)
 
 <use sopralluogo.jpg>
@@ -395,20 +395,17 @@ Overfull \hbox (38.6002pt too wide) in paragraph at lines 540--541
  [][] 
  []
 
-[25 <./rilievi.jpg>] [26 <./sopralluogo.jpg>] [27] [28]
+[26 <./rilievi.jpg>] [27 <./sopralluogo.jpg>] [28] [29]
 Missing character: There is no è in font cmr12!
- [29] [30] [31]
+ [30] [31] [32]
 Capitolo 4.
-[32
+[33
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 711--733
-
- []
-
-[33] [34]
+] [34] [35]
+Missing character: There is no à in font cmr10!
+ [36] [37]
 Capitolo 5.
-[35
+[38
 
 ] (./tesi_latex.aux) ) 
 Here is how much of TeX's memory you used:
@@ -418,7 +415,7 @@ Here is how much of TeX's memory you used:
  5848 multiletter control sequences out of 15000+600000
  9414 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,8n,23p,829b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,8n,23p,829b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
@@ -426,10 +423,10 @@ nts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr8.pfb>
-Output written on tesi_latex.pdf (36 pages, 1064422 bytes).
+Output written on tesi_latex.pdf (39 pages, 1069736 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 162 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

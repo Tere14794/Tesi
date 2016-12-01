@@ -730,6 +730,74 @@ Per risolvere questi problemi esistono software ma anche tecniche di Digital For
  \newline
  Per quanto riguarda la compatibilit\'a con Photoshop la cosa pi\'u utile \'e la capacit\'a di GIMP di leggere e scrivere il formativo nativo di photoshop (il PSD precedentemente detto) mentre non \'e possibile per Photoshop fare altrettanto sul formato nativo di GIMP detto XFC.
  \newline
+ Questi sono solo due dei programmi che permettono la manipolazione delle immagini, ma sono sicuramente  pi\u diffusi e adesso che sappiamo le insidie che dobbiamo affrontare vediamo quali tecniche possiamo usare per difenderci.
+ 
+ \section{Tecniche di Analisi Forense.}
+  Esisto 5 tipologie da tecniche che possono essere applicate: geometric based, physically based, camera based, fromat based e pixel based. Approfondiamole.
+\subsection{Geometric Based.}
+   
+Queste tecniche si applicano per dedurre le posizioni degli oggetti dalla fotocamera e le loro misure reali.
+ \newline
+ Per sapere quale \'e la posizione dell'oggetto dobbiamo innanzitutto considerare che esiste un punto di riferimento che si chiama \textbf{punto principale}.
+ \newline
+ Questo nelle immagini reali si trova vicino al centro dell'immagine e quando si sposta un oggetto o una persona nell'immagine il punto principale si sposta in modo proporzionale.
+ \newline
+ Questa proporzionalit\'a diviene elemento spia in quanto la differenza tra il punto principale stimato (vicino al centro dell'immagine) e quello effettivo pu\'o essere indizio di manomissione.
+  \newline
+  Per stimare il punto principale si fa riferimento agli occhi(se si tratta di foto con soggetti umani) o mediante altre metriche geometriche planari, tecniche per\'o che necessitano di un'ottima formazione matematica-informatica-prospettica.
+  \newline
+  Per dedurre le misure reali di oggetto si analizza la visione prospettica attraverso alcuni software in grado anche di misurare le dimensioni reali a partire dalle fotografie.
+  \newline
+  Questi due elementi, posizioni e misuri, permettono di creare un modello 3D della scena del crimine dando la possibilit\'a di studiare meglio la dinamica dei fatti.
+  
+  \subsection{Phisically Based.}
+  
+  Queste tecniche servono a scoprire le anomalie focalizzandosi su luci e ombre.
+  \newline
+ Dobbiamo considerare che la direzione della luce e le condizione della luce sulla scena e sui singoli soggetti pu\'o essere un elemento spia per capire se l'immagine \'e stata contraffatta. 
+\newline
+Se un elemento o pi\u sono stati inseriti successivamente nell'immagine infatti si noteranno delle differenze sia nella direzione della luce che colpisce i soggetti sia nella qualit\'a e coerenza di direzione dell'ombra prodotta.
+  \newline
+  Per stimare la direzione della luce si deve avere come punto di partenza il glint (il riflesso prodotto dalla luce sull'occhio umano) e da questo dedurne le linee di direzione per identificare la posizione della fonte luminosa.
+  \newline
+  In pi\u bisogna considerare che la luce artificiale e quella solare hanno caratteristiche quasi sempre diverse e producono sicuramente ombre diverse.
+  \newline
+  Ci sono alcune linee guida che possiamo considerare qui:
+  \newline
+  -I raggi solari sono praticamente paralleli mentre quello di una fonte artificiale divergono.
+  \newline
+  -Una fonte di luce morbida e vicina al soggetto non pu\'o produrre ombre dure,
+  \newline
+ -Se due soggetti vicini producono due ombre diverse \'e quasi sicuramente indizio di una manipolazione.
+ \newline
+ Per concludere quindi bisogna sempre:
+ \newline
+ -Identificare la fonte luminosa e la sua posizione.
+ \newline
+ -Analizzare se per ogni soggetto la fonte e la posizione della luce \'e compatibile o no.
+ \newline
+ -Analizzare se le ombre prodotte da ogni elemento siano compatibili tra di loro e con la fonte.
+ 
+ 
+ \subsection{Camera Based.}
+ 
+Come i segni lasciati dalla canna dell'arma da fuoco segna in modo inequivocabile il proiettile, anche le fotocamere durante l'elaborazione e produzione dell'immagine lasciano tracce che determinano un collegamento univoco tra foto e fotocamera.
+\newline
+L'elemento spia che deve essere studiato \'e il \textbf{rumore del sensore:} l'immagine al momento della sua acquisizione e elaborazione pu\'o essere affetta da rumore\footnote{"Variazione casuale (non presente nell'oggetto fotografato) della luminosità o delle informazioni sul colore in immagini." da https://it.wikipedia.org/wiki/Rumore--(immagine)}
+ o da altre imperfezioni determinate sia dal sensore della fotocamera sia da situazioni ambientali.
+\newline
+Principalmente il rumore si nota nelle aree uniforme o scure con poco dettaglio.
+\newline
+Poich\'e esistono 60 elementi distintivi che classificano il rumore, si possono utilizzare quali sono presenti nella foto per compararli con quali vengono prodotti da una certa fotocamera, identificando quindi la sorgente.
+
+\subsection{Format Based.}
+Queste si occupano di analizzare le correlazioni statistiche contenute nelle compressioni lossy ovvero con perdita di date.
+\newline
+Per riuscire ad analizzare bene un'immagine \'e necessario che siano presenti tutti i dati originali quindi le compressioni lossy sono il peggior nemico ma anche ottimo per scovare le manomissioni.
+ 
+  
+
+  
  
 
 
