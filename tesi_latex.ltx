@@ -793,16 +793,78 @@ Poich\'e esistono 60 elementi distintivi che classificano il rumore, si possono 
 \subsection{Format Based.}
 Queste si occupano di analizzare le correlazioni statistiche contenute nelle compressioni lossy ovvero con perdita di date.
 \newline
-Per riuscire ad analizzare bene un'immagine \'e necessario che siano presenti tutti i dati originali quindi le compressioni lossy sono il peggior nemico ma anche ottimo per scovare le manomissioni.
+Per riuscire ad analizzare bene un'immagine \'e necessario che siano presenti tutti i dati originali quindi le compressioni lossy sono il peggior nemico per l'analista forense ma al tempo stesso un ottimo amici per scovare le manomissioni.
+ \newline
+ Il principale formato di compressione lossy è il JPG di cui abbiamo gi\'a dato qualche informazione.
+\newline
+Poich\'e questo sistema di compressione permette di selezionare diversi gradi di compressione che vengono utilizzati in modo diverso dai differenti produttori attraverso la loro analisi permettono di risalire alla sorgente dell'immagine.
+
+\subsection{Pixel Based.}
+ Vengono analizzate le anomalie statistiche dei pixel.
+ \newline
+ Le principali contraffazioni che si possono effettuare sono le seguenti:
+ \newline
+-Metodo \textbf{"Copia e Incolla"}: per eliminare o aggiungere persone e oggetti alle foto. Se effettuata con precisione pu\'o essere difficile da scovare visivamente, inoltre pu\'o risultare difficile anche dal punto di vista computazionale perch\'e le aree clonate possono essere di qualsiasi dimensione e forma.
+\newline
+-Metodo \textbf{Ricampionamento}: azioni di ridimensionamento, rotazione o variazioni di proporzioni. Per riuscire in questo \'e necessario che si crei una nuova griglia di destinazione generando correlazioni periodiche nei dintorni dei pixel manomessi.
+\newline
+-Metodo \textbf{Fusione}: unire due o pi\'u scatti e se fatta perfettamente la linea di fusione \'e difficilmente individuabile.
+
  
-  
+\section{Software per l'analisi forense.}
+Dopo aver analizzato la foto applicando le tecniche sopra descritte si pu\'o ancor di pi\'u approfondire l'analisi di una foto usando alcuni software specifici. Ne presenteremo 4, analizzandoli uno per uno.
+\subsection{Amped Five.}
+Questo \'e un software che permette di analizzare una foto in modo completo.
+\newline
+Permette di svolgere pi\'u di 70 funzioni, risolvendo tutti i problemi che si manifestano durante un'indagine quando si analizza una foto in video. Per compiere le dovute analisi su un sopporto digitale foto/video il programma ha una base di 70 filtri che applicati permettono di notare gli elementi che ci interessano. 
+\newline
+Tra tutte le funzioni ne riportiamo alcune:
+\newline
+-I filtri possono essere applicati automaticamente in una stessa sequenza evitando di reimpostarli per ogni foto.
+\newline
+-i filtri possono essere applicati anche solo a una regione dell'immagine.
+\newline
+-Corregge distorsioni geometriche, convertendo anche immagini omnidirezionali e a 360° in panoramiche.
+\newline
+-Corregge la prospettiva.
+\newline
+-Misurare le distanze del mondo reale, altezze e lunghezze da immagini e video.
+\newline
+-Eliminare disturbi o immagini di sfondo.
+\newline
+-Migliorare la risoluzione, migliorare un filmato ripreso in condizioni meteorologiche avverse e in controluce.
+\newline
+-Genera automaticamente report dettagliati.
+\newline
+Ecco, di seguito, alcuni esempi visivi dei risultati che possono essere ottenuti: \footnote{tutte le foto sono tratte da https://ampedsoftware.com/it/samples}
+\newline
+Correzione della prospettiva di una scena: 
+\begin{figure}[htbp]
+\centering
+\includegraphics[scale=.16]{targa2.jpg}
+\caption{"Targa."}
+\end{figure}
 
-  
- 
+Deinterlacciamento di un filmato:
+\begin{figure}[htbp]
+\centering
+\includegraphics[scale=.20]{targa.jpg}
+\caption{"Targa."}
+\end{figure}
 
+Misura di oggetti sulla scena del crimine:
+\begin{figure}[htbp]
+\centering
+\includegraphics[scale=.20]{misure.jpg}
+\caption{"misura."}
+\end{figure}
 
-
-
+Misura di altezze da filmati di video sorveglianza:
+\begin{figure}[htbp]
+\centering
+\includegraphics[scale=.20]{misure2.jpg}
+\caption{"misura."}
+\end{figure}
 
 
 
