@@ -812,7 +812,7 @@ Poich\'e questo sistema di compressione permette di selezionare diversi gradi di
 
  
 \section{Software per l'analisi forense.}
-Dopo aver analizzato la foto applicando le tecniche sopra descritte si pu\'o ancor di pi\'u approfondire l'analisi di una foto usando alcuni software specifici. Ne presenteremo 4, analizzandoli uno per uno.
+Dopo aver analizzato la foto applicando le tecniche sopra descritte si pu\'o ancor di pi\'u approfondire l'analisi di una foto usando alcuni software specifici. Ne presenteremo 5, analizzandoli uno per uno.
 \subsection{Amped Five.}
 Questo \'e un software che permette di analizzare una foto in modo completo.
 \newline
@@ -877,6 +877,43 @@ All'interno di questo software \'e presente un database che permette di confront
 Da questo confronto \'e possibile riconoscere la sorgente e la firma di compressione.
 \newline
 Per esempio , se la firma di compressione \'e quella utilizza da Photoshop possiamo dedurre che probabilmente ha subito delle modifiche e manomissioni.
+
+\subsection{NFI PRNU Compare.}
+Un altro aiuto per l'individuazione della sorgente \'e NFI PRNU Compare, \'e un software Open Source che si basa sul "Photo Response Non-Uniformity" ovvero una caratteristica del sensore che , pur dovendo dare a ogni pixel lo stesso valore ,in realtà mostra la variazione dei valori dei pixel. \footnote{ Per saperne di più: http://www.stemmer-imaging.co.uk/en/knowledge-base/prnu-photo-response-non-uniformity/}
+\newline
+In questo modo la prima azione da far compiere al software \'e quello di " Extract Pattern" estraendo i pattern dell'immagine da confrontare con altri pattern di riferimento da un set di immagini.
+\newline
+Una volta estratti i pattern , li possiamo confrontare attraverso il comando "Compare" mostrando in lista i risultati con la correlazione pi\'u alta.
+\newline
+I risultati possono essere copiati o esportati.
+\newline
+Il punto debole si manifesta quando le immagini abbiano subito manipolazione del noise pattern falsando cos\'i i risultati.
+
+\subsection{PRNU Decompare.}
+Al fianco del software precedentemente detto possiamo presentare PRNU forging, sempre open-source, che comprette il patter noise dell'immagine.
+\newline
+Per farlo offre 3 opzioni:
+\newline
+- \textbf{Destroy}: l'immagine viene in sequenza doppiamente filtrata (blurring e sharpening) e ne segue una variazione del patter noise.
+-\textbf{Remove}:estraendo i PNRU da un set di immagine di riferimento rimuove il pattern dall'immagine.
+-\textbf{Forge}: supportato da 2 set di riferimento , elimina il pattern primario e ne inserisce un secondo.
+
+\subsection{Image Forensics Search System.}
+Per ultimo presentiamo IFSS , programma open source, che da un immagine "target" permette di cercare immagini che la contengono o che sono simili ad essa.
+\newline
+\'E utile per chi ha bisogno di comprare un'immagine con un grosso database, che loro gi\'a possiedono.
+\newline
+Permette 3 tipi di ricerche:
+\newline
+-Ricerca di immagini simili all'interno di una directory. \footnote{"In informatica, indice dei contenuti in una unità di memoria" da Dizionario.}
+\newline
+-Ricerca dell'immagine all'interno di una seconda immagine scelta.
+\newline
+-Ricerca dell'immagine all'interno di tutte le immagini di una directory.
+\newline
+Per funzionare a dovere per\'o ha bisogno di macchine ottime perch\'e richiede molto tempo per l'elaborazione dei risultati.
+
+
 
 
 
