@@ -37,3 +37,4 @@
 \contentsline {subsection}{\numberline {4.4.5}Image Forensics Search System.}{41}
 \contentsline {chapter}{\numberline {5}Esempi di casi risolti grazie alla fotografia}{43}
 \contentsline {section}{\numberline {5.1}Delitto Garlasco.}{44}
+\contentsline {section}{\numberline {5.2}Omicidio di Yara Gambirasio.}{46}
