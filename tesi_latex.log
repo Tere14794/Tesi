@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  15 DEC 2016 14:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  16 DEC 2016 13:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -441,14 +441,17 @@ Missing character: There is no à in font cmr10!
  [41]
 [42]
 Capitolo 5.
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ì in font cmr12!
+[43
+
+] [44] [45]
 
 Package frontespizio Warning: Remember to compile tesi_latex-frn with
 (frontespizio)                pdflatex tesi_latex-frn
 (frontespizio)                and then rerun pdflatex.
 
-[43
-
-] (./tesi_latex.aux) ) 
+[46] (./tesi_latex.aux) ) 
 Here is how much of TeX's memory you used:
  2608 strings out of 493014
  36618 string characters out of 6133351
@@ -456,17 +459,17 @@ Here is how much of TeX's memory you used:
  6107 multiletter control sequences out of 15000+600000
  8500 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,23p,857b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr8.pfb>
-Output written on tesi_latex.pdf (44 pages, 1644396 bytes).
+ 38i,8n,23p,971b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr8.pfb>
+Output written on tesi_latex.pdf (47 pages, 1653635 bytes).
 PDF statistics:
- 178 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
+ 187 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

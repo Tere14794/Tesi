@@ -36,3 +36,4 @@
 \contentsline {subsection}{\numberline {4.4.4}PRNU Decompare.}{41}
 \contentsline {subsection}{\numberline {4.4.5}Image Forensics Search System.}{41}
 \contentsline {chapter}{\numberline {5}Esempi di casi risolti grazie alla fotografia}{43}
+\contentsline {section}{\numberline {5.1}Delitto Garlasco.}{44}
