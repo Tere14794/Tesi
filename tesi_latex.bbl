@@ -1,0 +1,56 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{nty/global/}
+  \entry{cite:key1}{book}{}
+    \list{publisher}{1}{%
+      {Pubblicatore}%
+    }
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Ciao}
+    \field{year}{2017}
+  \endentry
+
+  \entry{test:prova}{book}{}
+    \name{author}{1}{}{%
+      {{hash=TP}{%
+         family={Test},
+         family_i={T\bibinitperiod},
+         given={Prova},
+         given_i={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Patatina}%
+    }
+    \strng{namehash}{TP1}
+    \strng{fullhash}{TP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Prova di Bibliografia}
+    \list{location}{1}{%
+      {Terronia}%
+    }
+    \field{year}{1994}
+  \endentry
+\endsortlist
+\endinput
