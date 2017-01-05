@@ -17,6 +17,134 @@
 \endgroup
 
 \sortlist[entry]{nty/global/}
+  \entry{w32}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BD}{%
+         family={Bassani},
+         family_i={B\bibinitperiod},
+         given={Davide},
+         given_i={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BD1}
+    \strng{fullhash}{BD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Analisi forensi di immagini digitali.}
+    \verb{url}
+    \verb http://www.davidebassani.it/analisi-forense-immagini-digitali
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{w20}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=dBC}{%
+         prefix={di},
+         prefix_i={d\bibinitperiod},
+         family={Bergamo},
+         family_i={B\bibinitperiod},
+         given={Corriere},
+         given_i={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BCd1}
+    \strng{fullhash}{BCd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{«Vere le immagini del furgone» Archiviazione per il capo del
+  Ris dopo la querela di Bossetti}
+    \verb{url}
+    \verb
+  http://bergamo.corriere.it/notizie/cronaca/16_dicembre_13/vere-immagini
+    \verb
+  -furgone-archiviazione-il-capo-ris-la-querela-bossetti-bergamo-dc46c116
+    \verb -c110-11e6-ba45-25063c27d0aa.shtml
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{w79}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BS}{%
+         family={Bistarelli},
+         family_i={B\bibinitperiod},
+         given={Stefano},
+         given_i={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BS1}
+    \strng{fullhash}{BS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{elaborazione di immagini a scopo forense}
+    \verb{url}
+    \verb
+  http://www.dmi.unipg.it/bista/didattica/sicurezza-pg/seminari2010-11/im
+    \verb age-forens/IMAGE%20FORENSICS%20GIUSTO.docx
+    \endverb
+    \field{year}{2010}
+  \endentry
+
+  \entry{w9}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={Carabinieri},
+         family_i={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Indagini scientifiche}
+    \verb{url}
+    \verb
+  http://www.carabinieri.it/arma/oggi/indagini-scientifiche/indagini-scie
+    \verb ntifiche
+    \endverb
+    \field{year}{2007}
+  \endentry
+
+  \entry{w18}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=dCA}{%
+         prefix={di},
+         prefix_i={d\bibinitperiod},
+         family={Criminologia},
+         family_i={C\bibinitperiod},
+         given={Aspetti},
+         given_i={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CAd1}
+    \strng{fullhash}{CAd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Il delitto di Garlasco la prova e la probabilita logica}
+    \verb{url}
+    \verb
+  http://www.criminologia-aspetti.it/delitto-garlasco-prova-probabilita-l
+    \verb ogica/
+    \endverb
+    \field{year}{2015}
+  \endentry
+
   \entry{med}{book}{}
     \name{author}{1}{}{%
       {{hash=DM}{%
@@ -38,6 +166,132 @@
     \field{title}{Principi di medicina legale e di biologia forense nelle
   scienze per l'investigazione e la sicurezza}
     \field{year}{2013}
+  \endentry
+
+  \entry{w17}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DS}{%
+         family={D?Onofrio},
+         family_i={D\bibinitperiod},
+         given={Simonetta},
+         given_i={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DS1}
+    \strng{fullhash}{DS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{DELITTO GARLASCO, CHIARA POGGI: IL 22 SETTEMBRE LA CONSEGNA
+  DI RICOSTRUZIONI E PROVE SCIENTIFICHE}
+    \verb{url}
+    \verb
+  http://www.osservatoreitalia.it/2014/09/09/delitto-garlasco-chiara-pogg
+    \verb
+  i-il-22-settembre-la-consegna-di-ricostruzioni-e-prove-scientifiche/177
+    \verb 1-41-9
+    \endverb
+    \field{year}{2014}
+  \endentry
+
+  \entry{w98}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=eFGSB}{%
+         prefix={e},
+         prefix_i={e},
+         family={Fausto\bibnamedelima Galvan},
+         family_i={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={Stefano\bibnamedelima Battiato},
+         given_i={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FGSBe1}
+    \strng{fullhash}{FGSBe1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Ricostruzione di informazioni 3d a partire da immagini
+  bidimensionali.}
+    \verb{url}
+    \verb
+  http://www.dmi.unict.it/~battiato/download/SeG_IV_MMXIII_BATTIATO_GALVA
+    \verb N.pdf
+    \endverb
+    \field{year}{2013}
+  \endentry
+
+  \entry{w16}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FA}{%
+         family={Five},
+         family_i={F\bibinitperiod},
+         given={Amped},
+         given_i={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FA1}
+    \strng{fullhash}{FA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Documentazione Tecnica.}
+    \verb{url}
+    \verb https://dl.ampedsoftware.com/amped-five-it.pdf
+    \endverb
+    \field{year}{2012}
+  \endentry
+
+  \entry{w13}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={Fotoautentica},
+         family_i={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{F1}
+    \strng{fullhash}{F1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Un test per stabilire se una fotografia è vera o falsa.}
+    \verb{url}
+    \verb
+  https://fotoautentica.wordpress.com/tag/test-di-autenticita-della-fotog
+    \verb rafia/
+    \endverb
+    \field{year}{2011}
+  \endentry
+
+  \entry{w15}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=GG}{%
+         family={Ghuran},
+         family_i={G\bibinitperiod},
+         given={Gianluca},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GG1}
+    \strng{fullhash}{GG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Panoramica sui software di Image Forensics esistenti}
+    \verb{url}
+    \verb
+  http://www.dmi.unict.it/~battiato/CF1011/sw%20Image%20Forensics%20esist
+    \verb enti.pdf
+    \endverb
   \endentry
 
   \entry{wanted}{book}{}
@@ -110,6 +364,27 @@
     \field{year}{1961}
   \endentry
 
+  \entry{w12}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=I}{%
+         family={INAE},
+         family_i={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{I1}
+    \strng{fullhash}{I1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Indagini satellitari}
+    \verb{url}
+    \verb http://www.inae.it
+    \endverb
+    \field{year}{2016}
+  \endentry
+
   \entry{scienze}{book}{}
     \name{author}{1}{}{%
       {{hash=IAPM}{%
@@ -155,6 +430,128 @@
     \field{year}{2011}
   \endentry
 
+  \entry{w91}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={Nital},
+         family_i={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Capitolo 4: la messa a fuoco}
+    \verb{url}
+    \verb https://www.nital.it/corso_foto/4.php
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{w21}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={Panorama},
+         family_i={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{«Caso Yara: perché Bossetti è stato condannato}
+    \verb{url}
+    \verb
+  http://www.panorama.it/news/cronaca/caso-yara-perche-bossetti-e-stato-c
+    \verb ondannato/
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{w19}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=fqI}{%
+         prefix={fatto},
+         prefix_i={f\bibinitperiod},
+         family={quotidiano.},
+         family_i={q\bibinitperiod},
+         given={Il},
+         given_i={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{qIf1}
+    \strng{fullhash}{qIf1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Q}
+    \field{sortinithash}{Q}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Yara Gambirasio, video su furgone di Bossetti confezionato.
+  Comandante Ris: ?Fatto per esigenze comunicative}
+    \verb{url}
+    \verb
+  http://www.ilfattoquotidiano.it/2015/11/03/yara-gambirasio-video-su-fur
+    \verb
+  gone-di-bossetti-confezionato-comandante-ris-fatto-per-esigenze-comunic
+    \verb ative/2183566/
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{w14}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RAD}{%
+         family={Rosa},
+         family_i={R\bibinitperiod},
+         given={Alessia\bibnamedelima De},
+         given_i={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RAD1}
+    \strng{fullhash}{RAD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Elaborazione e Protezione delle immagini.}
+    \verb{url}
+    \verb
+  https://iapp.dinfo.unifi.it/uploads/documents/courses/epi_seminars/FOR_
+    \verb EPI1112.pdf
+    \endverb
+    \field{year}{2011}
+  \endentry
+
+  \entry{w1}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RM}{%
+         family={Rovere},
+         family_i={R\bibinitperiod},
+         given={Marco},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RM1}
+    \strng{fullhash}{RM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Viaggio nella storia della fotografia}
+    \verb{url}
+    \verb https://www.nikonschool.it/corso-breve-storia-fotografia/index.php
+    \endverb
+    \field{year}{2016}
+  \endentry
+
   \entry{crimine}{book}{}
     \name{author}{1}{}{%
       {{hash=SU}{%
@@ -175,6 +572,398 @@
     \field{sortinithash}{S}
     \field{title}{La scienza contro il crimine: manuale di polizia scientifica}
     \field{year}{1948}
+  \endentry
+
+  \entry{w8}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=VAC}{%
+         family={Vidani},
+         family_i={V\bibinitperiod},
+         given={Alberto\bibnamedelima Cabas},
+         given_i={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VAC1}
+    \strng{fullhash}{VAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{ISO: la fotocamera è sensibile}
+    \verb{url}
+    \verb http://www.fotocomefare.com/iso-la-fotocamera-sensibile/
+    \endverb
+    \field{year}{2010}
+  \endentry
+
+  \entry{wiki:xxx99}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Adobe Photoshop --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Adobe_Photoshop&oldid=8473872
+    \verb 7
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wiki:xxx3}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Alphonse Bertillon --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Alphonse_Bertillon&oldid=7654
+    \verb 0377
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{wiki:xxx55}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Delitto di Garlasco --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Delitto_di_Garlasco&oldid=850
+    \verb 09011
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wik5}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Diaframma (ottica) --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Diaframma_(ottica)&oldid=7909
+    \verb 4411
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wiki:xxx1}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Fotocamera digitale --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Fotocamera_digitale&oldid=840
+    \verb 99867
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wiki:xxx35}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{GIMP --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb http://it.wikipedia.org/w/index.php?title=GIMP&oldid=85107648
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{wiki:xxx11}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Immagine satellitare --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Immagine_satellitare&oldid=80
+    \verb 009088
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wik2}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Mirino (fotografia) --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Mirino_(fotografia)&oldid=724
+    \verb 63927
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{wik4}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Obiettivo fotografico --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Obiettivo_fotografico&oldid=8
+    \verb 2463019
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wiki:xxx56}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Omicidio di Yara Gambirasio --- Wikipedia{,} L'enciclopedia
+  libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Omicidio_di_Yara_Gambirasio&o
+    \verb ldid=84457431
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wik3}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Otturatore (fotografia) --- Wikipedia{,} L'enciclopedia
+  libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Otturatore_(fotografia)&oldid
+    \verb =85034463
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wik1}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Pentaprisma --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb http://it.wikipedia.org/w/index.php?title=Pentaprisma&oldid=83937249
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wik7}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Rapporto focale --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Rapporto_focale&oldid=8110485
+    \verb 9
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wiki:xxx5}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Reparto investigazioni scientifiche --- Wikipedia{,}
+  L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Reparto_investigazioni_scient
+    \verb ifiche&oldid=80965603
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wiki:xxx2}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Salvatore Ottolenghi (medico) --- Wikipedia{,} L'enciclopedia
+  libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Salvatore_Ottolenghi_(medico)
+    \verb &oldid=78452490
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wiki:xxx4}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Servizio di polizia scientifica --- Wikipedia{,}
+  L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Servizio_di_polizia_scientifi
+    \verb ca&oldid=82853577
+    \endverb
+    \field{year}{2016}
   \endentry
 
   \entry{wiki:xxx}{misc}{}
@@ -218,6 +1007,29 @@
   libera}
     \verb{url}
     \verb https://it.wikipedia.org/wiki/Storia_della_fotografia
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{wik6}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Tempo di esposizione --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Tempo_di_esposizione&oldid=80
+    \verb 103483
     \endverb
     \field{year}{2016}
   \endentry
