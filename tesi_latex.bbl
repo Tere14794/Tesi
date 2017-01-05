@@ -17,14 +17,6 @@
 \endgroup
 
 \sortlist[entry]{nty/global/}
-  \entry{w}{misc}{}
-    \verb{url}
-    \verb https://it.wikipedia.org/wiki/Storia_della_fotografia ult.cons. 05
-  Genn
-    \verb aio 2017
-    \endverb
-  \endentry
-
   \entry{med}{book}{}
     \name{author}{1}{}{%
       {{hash=DM}{%
@@ -183,6 +175,51 @@
     \field{sortinithash}{S}
     \field{title}{La scienza contro il crimine: manuale di polizia scientifica}
     \field{year}{1948}
+  \endentry
+
+  \entry{wiki:xxx}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Single-lens reflex --- Wikipedia{,} L'enciclopedia libera}
+    \verb{url}
+    \verb
+  http://it.wikipedia.org/w/index.php?title=Single-lens_reflex&oldid=8345
+    \verb 3770
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{w}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={Wikipedia},
+         family_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{[Online; in data 5-gennaio-2017]}
+    \field{title}{Storia della fotografia --- Wikipedia{,} L'enciclopedia
+  libera}
+    \verb{url}
+    \verb https://it.wikipedia.org/wiki/Storia_della_fotografia
+    \endverb
+    \field{year}{2016}
   \endentry
 \endsortlist
 \endinput

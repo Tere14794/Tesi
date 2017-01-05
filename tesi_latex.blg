@@ -18,50 +18,184 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: tesi_latex-blx.bib
 Database file #2: bibliografia.bib
-Warning--entry type for "w" isn't style-file defined
---line 11 of file bibliografia.bib
+Repeated entry---line 18 of file bibliografia.bib
+ : @misc{w
+ :        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 32 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 39 of file bibliografia.bib
+ :   @misc{wiki:xxx
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 46 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 53 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 60 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 67 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 74 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 81 of file bibliografia.bib
+ :   @misc{w
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 88 of file bibliografia.bib
+ :  @misc{w
+ :         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 96 of file bibliografia.bib
+ : @misc{wiki:xxx
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 103 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 111 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 118 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 125 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 132 of file bibliografia.bib
+ :  @misc{w
+ :         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 139 of file bibliografia.bib
+ :   @misc{wiki:xxx
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 147 of file bibliografia.bib
+ :  @misc{w
+ :         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 154 of file bibliografia.bib
+ : @misc{w
+ :        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 161 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 168 of file bibliografia.bib
+ :  @misc{wiki:xxx
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 175 of file bibliografia.bib
+ :  @misc{w
+ :         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 182 of file bibliografia.bib
+ :  @misc{w
+ :         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 189 of file bibliografia.bib
+ :  @misc{w
+ :         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 196 of file bibliografia.bib
+ :   @misc{w
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 202 of file bibliografia.bib
+ : @misc{w
+ :        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 208 of file bibliografia.bib
+ : @misc{w
+ :        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 214 of file bibliografia.bib
+ :  @misc{w
+ :         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 221 of file bibliografia.bib
+ : @misc{wiki:xxx
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 229 of file bibliografia.bib
+ :  @misc{w
+ :         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 236 of file bibliografia.bib
+ : @misc{wiki:xxx
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 243 of file bibliografia.bib
+ :  @misc{w
+ :         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 249 of file bibliografia.bib
+ : @misc{w
+ :        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 257 of file bibliografia.bib
+ : @misc{w
+ :        ,
+I'm skipping whatever remains of this entry
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 9 entries,
+You've used 10 entries,
             6256 wiz_defined-function locations,
-            1215 strings with 9303 characters,
-and the built_in function-call counts, 30505 in all, are:
-= -- 1744
-> -- 719
-< -- 293
-+ -- 527
-- -- 202
-* -- 1695
-:= -- 2381
+            1222 strings with 9524 characters,
+and the built_in function-call counts, 35231 in all, are:
+= -- 1979
+> -- 886
+< -- 328
++ -- 598
+- -- 254
+* -- 2063
+:= -- 2794
 add.period$ -- 0
-call.type$ -- 9
-change.case$ -- 174
+call.type$ -- 10
+change.case$ -- 191
 chr.to.int$ -- 30
-cite$ -- 16
-duplicate$ -- 3439
-empty$ -- 3135
-format.name$ -- 343
-if$ -- 6768
+cite$ -- 18
+duplicate$ -- 3960
+empty$ -- 3581
+format.name$ -- 441
+if$ -- 7777
 int.to.chr$ -- 0
-int.to.str$ -- 25
+int.to.str$ -- 30
 missing$ -- 0
-newline$ -- 184
-num.names$ -- 419
-pop$ -- 2675
+newline$ -- 220
+num.names$ -- 507
+pop$ -- 2981
 preamble$ -- 1
-purify$ -- 187
+purify$ -- 209
 quote$ -- 0
-skip$ -- 1493
+skip$ -- 1730
 stack$ -- 0
-substring$ -- 2096
-swap$ -- 947
-text.length$ -- 209
-text.prefix$ -- 14
+substring$ -- 2355
+swap$ -- 1125
+text.length$ -- 245
+text.prefix$ -- 15
 top$ -- 1
-type$ -- 293
+type$ -- 328
 warning$ -- 0
-while$ -- 310
+while$ -- 363
 width$ -- 0
-write$ -- 176
-(There was 1 warning)
+write$ -- 211
+(There were 34 error messages)
