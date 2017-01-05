@@ -17,40 +17,172 @@
 \endgroup
 
 \sortlist[entry]{nty/global/}
-  \entry{cite:key1}{book}{}
-    \list{publisher}{1}{%
-      {Pubblicatore}%
-    }
-    \field{labeltitlesource}{title}
-    \field{sortinit}{C}
-    \field{sortinithash}{C}
-    \field{title}{Ciao}
-    \field{year}{2017}
+  \entry{w}{misc}{}
+    \verb{url}
+    \verb https://it.wikipedia.org/wiki/Storia_della_fotografia ult.cons. 05
+  Genn
+    \verb aio 2017
+    \endverb
   \endentry
 
-  \entry{test:prova}{book}{}
+  \entry{med}{book}{}
     \name{author}{1}{}{%
-      {{hash=TP}{%
-         family={Test},
-         family_i={T\bibinitperiod},
-         given={Prova},
-         given_i={P\bibinitperiod},
+      {{hash=DM}{%
+         family={DOBOSZ},
+         family_i={D\bibinitperiod},
+         given={M},
+         given_i={M},
       }}%
     }
     \list{publisher}{1}{%
-      {Patatina}%
+      {Aracne}%
     }
-    \strng{namehash}{TP1}
-    \strng{fullhash}{TP1}
+    \strng{namehash}{DM1}
+    \strng{fullhash}{DM1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{T}
-    \field{sortinithash}{T}
-    \field{title}{Prova di Bibliografia}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Principi di medicina legale e di biologia forense nelle
+  scienze per l'investigazione e la sicurezza}
+    \field{year}{2013}
+  \endentry
+
+  \entry{wanted}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GA}{%
+         family={GILARDI},
+         family_i={G\bibinitperiod},
+         given={A},
+         given_i={A},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mondadori Bruno}%
+    }
+    \strng{namehash}{GA1}
+    \strng{fullhash}{GA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Wanted! Storia, tecnica ed estetica della fotografia
+  criminale, segnaletica e giudiziaria}
+    \field{year}{2003}
+  \endentry
+
+  \entry{dieci}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GA}{%
+         family={GIULIANO},
+         family_i={G\bibinitperiod},
+         given={A},
+         given_i={A},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Tirrenia Stampatori}%
+    }
+    \strng{namehash}{GA2}
+    \strng{fullhash}{GA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Dieci e tutte diverse. Studio sui dermatoglifi umani}
     \list{location}{1}{%
       {Terronia}%
     }
-    \field{year}{1994}
+    \field{year}{2004}
+  \endentry
+
+  \entry{polizia}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HR}{%
+         family={HARRISON},
+         family_i={H\bibinitperiod},
+         given={R},
+         given_i={R},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Fratelli Fabbri Editori}%
+    }
+    \strng{namehash}{HR1}
+    \strng{fullhash}{HR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Polizia Scientifica}
+    \field{year}{1961}
+  \endentry
+
+  \entry{scienze}{book}{}
+    \name{author}{1}{}{%
+      {{hash=IAPM}{%
+         family={INTINI\bibnamedelima A},
+         family_i={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={PICOZZI\bibnamedelima M},
+         given_i={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {UTET GIURIDICA}%
+    }
+    \strng{namehash}{IAPM1}
+    \strng{fullhash}{IAPM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{Scienze Forensi - Teoria e prassi dell'investigazione
+  scientifica}
+    \field{year}{2009}
+  \endentry
+
+  \entry{trattato}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LM}{%
+         family={LANGFORD},
+         family_i={L\bibinitperiod},
+         given={M},
+         given_i={M},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Il Castello}%
+    }
+    \strng{namehash}{LM1}
+    \strng{fullhash}{LM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Nuovo trattato di fotografia moderna.}
+    \field{year}{2011}
+  \endentry
+
+  \entry{crimine}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SU}{%
+         family={SORRENTINO},
+         family_i={S\bibinitperiod},
+         given={U},
+         given_i={U},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Autore}%
+    }
+    \strng{namehash}{SU1}
+    \strng{fullhash}{SU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{La scienza contro il crimine: manuale di polizia scientifica}
+    \field{year}{1948}
   \endentry
 \endsortlist
 \endinput

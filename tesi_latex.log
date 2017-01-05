@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  4 JAN 2017 16:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  5 JAN 2017 18:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -434,23 +434,23 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<Logo.png, id=1, 875.27pt x 875.27pt>
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<Logo.png, id=7, 875.27pt x 875.27pt>
 File: Logo.png Graphic file (type png)
  <use Logo.png>
 Package pdftex.def Info: Logo.png used on input line 25.
 (pdftex.def)             Requested size: 87.53212pt x 87.53212pt.
- [1
-
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Logo.
-png>] (./tesi_latex.toc
+ [1 <./Logo.png>]
+(./tesi_latex.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 9.
-
-[1
+ [1
 
 ])
 \tf@toc=\write5
@@ -531,7 +531,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--167
 ] [4] [5] [6]
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- <dagherrotipo.jpg, id=30, 401.5pt x 258.9675pt>
+ <dagherrotipo.jpg, id=33, 401.5pt x 258.9675pt>
 File: dagherrotipo.jpg Graphic file (type jpg)
 
 <use dagherrotipo.jpg>
@@ -549,7 +549,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--196
 [7]
 Missing character: There is no ù in font cmr12!
  [8 <./dagherrotipo.jpg>] [9] [10] [11]
-<SLR_cross_section.jpg, id=46, 301.125pt x 245.41687pt>
+<SLR_cross_section.jpg, id=50, 301.125pt x 245.41687pt>
 File: SLR_cross_section.jpg Graphic file (type jpg)
 
 <use SLR_cross_section.jpg>
@@ -606,14 +606,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 526.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 526.
- [21] [22] <cartellino.jpg, id=82, 1140.26pt x 883.3pt>
+ [21] [22] <cartellino.jpg, id=85, 1140.26pt x 883.3pt>
 File: cartellino.jpg Graphic file (type jpg)
 
 <use cartellino.jpg>
 Package pdftex.def Info: cartellino.jpg used on input line 530.
 (pdftex.def)             Requested size: 273.66798pt x 211.99632pt.
  [23 <./cartellino.jpg>]
-<datt.jpg, id=89, 406.8801pt x 144.90135pt>
+<datt.jpg, id=93, 406.8801pt x 144.90135pt>
 File: datt.jpg Graphic file (type jpg)
  <use datt.jpg>
 Package pdftex.def Info: datt.jpg used on input line 544.
@@ -623,13 +623,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 548--562
 
  []
 
-[24 <./datt.jpg>] [25] <rilievi.jpg, id=97, 582.175pt x 517.935pt>
+[24 <./datt.jpg>] [25] <rilievi.jpg, id=100, 582.175pt x 517.935pt>
 File: rilievi.jpg Graphic file (type jpg)
 
 <use rilievi.jpg>
 Package pdftex.def Info: rilievi.jpg used on input line 595.
 (pdftex.def)             Requested size: 291.08679pt x 258.96686pt.
- <sopralluogo.jpg, id=98, 857.2025pt x 550.055pt>
+ <sopralluogo.jpg, id=101, 857.2025pt x 550.055pt>
 File: sopralluogo.jpg Graphic file (type jpg)
 
 <use sopralluogo.jpg>
@@ -652,25 +652,25 @@ Missing character: There is no à in font cmr10!
 Missing character: There is no è in font cmr12!
  [37]
 Missing character: There is no ° in font cmr12!
- <targa2.jpg, id=137, 1668.2325pt x 590.205pt>
+ <targa2.jpg, id=140, 1668.2325pt x 590.205pt>
 File: targa2.jpg Graphic file (type jpg)
 
 <use targa2.jpg>
 Package pdftex.def Info: targa2.jpg used on input line 922.
 (pdftex.def)             Requested size: 266.92265pt x 94.43472pt.
- <targa.jpg, id=138, 1469.49pt x 578.16pt>
+ <targa.jpg, id=141, 1469.49pt x 578.16pt>
 File: targa.jpg Graphic file (type jpg)
  <use targa.jpg>
 Package pdftex.def Info: targa.jpg used on input line 929.
 (pdftex.def)             Requested size: 293.89279pt x 115.62994pt.
 
-[38 <./targa2.jpg>] <misure.jpg, id=142, 1399.2275pt x 483.8075pt>
+[38 <./targa2.jpg>] <misure.jpg, id=145, 1399.2275pt x 483.8075pt>
 File: misure.jpg Graphic file (type jpg)
 
 <use misure.jpg>
 Package pdftex.def Info: misure.jpg used on input line 936.
 (pdftex.def)             Requested size: 279.84055pt x 96.75978pt.
- <misure2.jpg, id=143, 1425.325pt x 419.5675pt>
+ <misure2.jpg, id=146, 1425.325pt x 419.5675pt>
 File: misure2.jpg Graphic file (type jpg)
 
 <use misure2.jpg>
@@ -690,28 +690,34 @@ Missing character: There is no ì in font cmr12!
 ] [43] [44] [45] [46] [47
 
 ] (./tesi_latex.aux)
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'tesi_latex.run.xml'.
 \openout1 = `tesi_latex.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8564 strings out of 493014
- 145333 string characters out of 6133351
+ 8587 strings out of 493014
+ 145829 string characters out of 6133351
  387540 words of memory out of 5000000
- 12009 multiletter control sequences out of 15000+600000
- 8847 words of font info for 31 fonts, out of 8000000 for 9000
+ 12030 multiletter control sequences out of 15000+600000
+ 9317 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,45p,976b,1142s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,8n,45p,976b,1142s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
 local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on tesi_latex.pdf (48 pages, 1927142 bytes).
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on tesi_latex.pdf (49 pages, 1946373 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
+ 209 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

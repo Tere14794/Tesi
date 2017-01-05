@@ -18,47 +18,50 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: tesi_latex-blx.bib
 Database file #2: bibliografia.bib
+Warning--entry type for "w" isn't style-file defined
+--line 11 of file bibliografia.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 3 entries,
+You've used 9 entries,
             6256 wiz_defined-function locations,
-            1187 strings with 8642 characters,
-and the built_in function-call counts, 7188 in all, are:
-= -- 371
-> -- 161
-< -- 69
-+ -- 121
-- -- 46
-* -- 331
-:= -- 606
+            1215 strings with 9303 characters,
+and the built_in function-call counts, 30505 in all, are:
+= -- 1744
+> -- 719
+< -- 293
++ -- 527
+- -- 202
+* -- 1695
+:= -- 2381
 add.period$ -- 0
-call.type$ -- 3
-change.case$ -- 45
+call.type$ -- 9
+change.case$ -- 174
 chr.to.int$ -- 30
-cite$ -- 4
-duplicate$ -- 749
-empty$ -- 776
-format.name$ -- 50
-if$ -- 1634
+cite$ -- 16
+duplicate$ -- 3439
+empty$ -- 3135
+format.name$ -- 343
+if$ -- 6768
 int.to.chr$ -- 0
-int.to.str$ -- 6
+int.to.str$ -- 25
 missing$ -- 0
-newline$ -- 56
-num.names$ -- 78
-pop$ -- 687
+newline$ -- 184
+num.names$ -- 419
+pop$ -- 2675
 preamble$ -- 1
-purify$ -- 46
+purify$ -- 187
 quote$ -- 0
-skip$ -- 375
+skip$ -- 1493
 stack$ -- 0
-substring$ -- 432
-swap$ -- 225
-text.length$ -- 53
-text.prefix$ -- 2
+substring$ -- 2096
+swap$ -- 947
+text.length$ -- 209
+text.prefix$ -- 14
 top$ -- 1
-type$ -- 90
+type$ -- 293
 warning$ -- 0
-while$ -- 86
+while$ -- 310
 width$ -- 0
-write$ -- 54
+write$ -- 176
+(There was 1 warning)
