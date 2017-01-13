@@ -14,7 +14,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.2}La macchina fotografica nell'Ottocento}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.3}La fotografia analogica del Novecento.}{9}
+\contentsline {subsection}{\numberline {1.2.3}La fotografia analogica del Novecento.}{8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.4}Dal 1975 ad oggi: la macchina fotografica digitale.}{10}
 \defcounter {refsection}{0}\relax 
@@ -42,7 +42,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.5}Fotografia Satellitare.}{30}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Fotografia Forense e Medicina Legale.}{31}
+\contentsline {section}{\numberline {3.6}Fotografia Forense e Medicina Legale.}{30}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Analisi Forensi di immagini.}{32}
 \defcounter {refsection}{0}\relax 

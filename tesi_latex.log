@@ -1,15 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  8 JAN 2017 19:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.1.13)  13 JAN 2017 20:28
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **tesi_latex.ltx
 (./tesi_latex.ltx
-LaTeX2e <2016/03/31>
+LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/report.cls
+(/usr/share/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -25,13 +24,13 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-italian/italian.ldf
+(/usr/share/texmf-dist/tex/generic/babel-italian/italian.ldf
 Language: italian 2015/03/26 v1.3n Italian support from the babel system
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
@@ -40,14 +39,14 @@ File: babel.def 2016/04/23 3.9r Babel common definitions
 \it@doublequoteactive=\count90
 \it@ISOcompliance=\count91
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count92
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2016/07/14 v5.1h context-sensitive quotations (JAW)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
@@ -59,41 +58,59 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \csq@tshold=\count98
 \csq@ltx@everypar=\toks15
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2016/01/31 v5.1g csquotes generic definitions (JAW)
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2016/07/14 v5.1h csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.cfg
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 )
 Package csquotes Info: Option 'babel' depreciated.
 (csquotes)             Using 'autostyle'.
 Package csquotes Info: Enabling multilingual quotes.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2016/05/14 v3.4 programmable bibliographies (PK/JW/AB)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
-and LuaTeX
-)
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
-)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2016/09/17 v3.6 programmable bibliographies (PK/JW/AB)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -101,79 +118,79 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/logreq/logreq.sty
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count99
+\lrq@indent=\count100
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/logreq/logreq.def
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/xstring/xstring.sty
-(/usr/local/texlive/2016/texmf-dist/tex/generic/xstring/xstring.tex
+(/usr/share/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write3
-\integerpart=\count100
-\decimalpart=\count101
+\integerpart=\count101
+\decimalpart=\count102
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count102
-\c@listtotal=\count103
-\c@listcount=\count104
-\c@liststart=\count105
-\c@liststop=\count106
-\c@citecount=\count107
-\c@citetotal=\count108
-\c@multicitecount=\count109
-\c@multicitetotal=\count110
-\c@instcount=\count111
-\c@maxnames=\count112
-\c@minnames=\count113
-\c@maxitems=\count114
-\c@minitems=\count115
-\c@citecounter=\count116
-\c@savedcitecounter=\count117
-\c@uniquelist=\count118
-\c@uniquename=\count119
-\c@refsection=\count120
-\c@refsegment=\count121
-\c@maxextratitle=\count122
-\c@maxextratitleyear=\count123
-\c@maxextrayear=\count124
-\c@maxextraalpha=\count125
-\c@abbrvpenalty=\count126
-\c@highnamepenalty=\count127
-\c@lownamepenalty=\count128
-\c@maxparens=\count129
-\c@parenlevel=\count130
-\blx@tempcnta=\count131
-\blx@tempcntb=\count132
-\blx@tempcntc=\count133
-\blx@maxsection=\count134
-\blx@maxsegment@0=\count135
-\blx@notetype=\count136
-\blx@parenlevel@text=\count137
-\blx@parenlevel@foot=\count138
-\blx@sectionciteorder@0=\count139
+\c@tabx@nest=\count103
+\c@listtotal=\count104
+\c@listcount=\count105
+\c@liststart=\count106
+\c@liststop=\count107
+\c@citecount=\count108
+\c@citetotal=\count109
+\c@multicitecount=\count110
+\c@multicitetotal=\count111
+\c@instcount=\count112
+\c@maxnames=\count113
+\c@minnames=\count114
+\c@maxitems=\count115
+\c@minitems=\count116
+\c@citecounter=\count117
+\c@savedcitecounter=\count118
+\c@uniquelist=\count119
+\c@uniquename=\count120
+\c@refsection=\count121
+\c@refsegment=\count122
+\c@maxextratitle=\count123
+\c@maxextratitleyear=\count124
+\c@maxextrayear=\count125
+\c@maxextraalpha=\count126
+\c@abbrvpenalty=\count127
+\c@highnamepenalty=\count128
+\c@lownamepenalty=\count129
+\c@maxparens=\count130
+\c@parenlevel=\count131
+\blx@tempcnta=\count132
+\blx@tempcntb=\count133
+\blx@tempcntc=\count134
+\blx@maxsection=\count135
+\blx@maxsegment@0=\count136
+\blx@notetype=\count137
+\blx@parenlevel@text=\count138
+\blx@parenlevel@foot=\count139
+\blx@sectionciteorder@0=\count140
 \labelnumberwidth=\skip43
 \labelalphawidth=\skip44
 \biblabelsep=\skip45
@@ -184,83 +201,83 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \bibhang=\skip50
 \blx@bcfin=\read1
 \blx@bcfout=\write4
-\c@mincomprange=\count140
-\c@maxcomprange=\count141
-\c@mincompwidth=\count142
+\c@mincomprange=\count141
+\c@maxcomprange=\count142
+\c@mincompwidth=\count143
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/blx-dm.def)
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'verbose-trad2.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count143
-\c@savedafterword=\count144
-\c@annotator=\count145
-\c@savedannotator=\count146
-\c@author=\count147
-\c@savedauthor=\count148
-\c@bookauthor=\count149
-\c@savedbookauthor=\count150
-\c@commentator=\count151
-\c@savedcommentator=\count152
-\c@editor=\count153
-\c@savededitor=\count154
-\c@editora=\count155
-\c@savededitora=\count156
-\c@editorb=\count157
-\c@savededitorb=\count158
-\c@editorc=\count159
-\c@savededitorc=\count160
-\c@foreword=\count161
-\c@savedforeword=\count162
-\c@holder=\count163
-\c@savedholder=\count164
-\c@introduction=\count165
-\c@savedintroduction=\count166
-\c@namea=\count167
-\c@savednamea=\count168
-\c@nameb=\count169
-\c@savednameb=\count170
-\c@namec=\count171
-\c@savednamec=\count172
-\c@translator=\count173
-\c@savedtranslator=\count174
-\c@shortauthor=\count175
-\c@savedshortauthor=\count176
-\c@shorteditor=\count177
-\c@savedshorteditor=\count178
-\c@labelname=\count179
-\c@savedlabelname=\count180
-\c@institution=\count181
-\c@savedinstitution=\count182
-\c@lista=\count183
-\c@savedlista=\count184
-\c@listb=\count185
-\c@savedlistb=\count186
-\c@listc=\count187
-\c@savedlistc=\count188
-\c@listd=\count189
-\c@savedlistd=\count190
-\c@liste=\count191
-\c@savedliste=\count192
-\c@listf=\count193
-\c@savedlistf=\count194
-\c@location=\count195
-\c@savedlocation=\count196
-\c@organization=\count197
-\c@savedorganization=\count198
-\c@origlocation=\count199
-\c@savedoriglocation=\count266
-\c@origpublisher=\count267
-\c@savedorigpublisher=\count268
-\c@publisher=\count269
-\c@savedpublisher=\count270
-\c@language=\count271
-\c@savedlanguage=\count272
-\c@pageref=\count273
-\c@savedpageref=\count274
+\c@afterword=\count144
+\c@savedafterword=\count145
+\c@annotator=\count146
+\c@savedannotator=\count147
+\c@author=\count148
+\c@savedauthor=\count149
+\c@bookauthor=\count150
+\c@savedbookauthor=\count151
+\c@commentator=\count152
+\c@savedcommentator=\count153
+\c@editor=\count154
+\c@savededitor=\count155
+\c@editora=\count156
+\c@savededitora=\count157
+\c@editorb=\count158
+\c@savededitorb=\count159
+\c@editorc=\count160
+\c@savededitorc=\count161
+\c@foreword=\count162
+\c@savedforeword=\count163
+\c@holder=\count164
+\c@savedholder=\count165
+\c@introduction=\count166
+\c@savedintroduction=\count167
+\c@namea=\count168
+\c@savednamea=\count169
+\c@nameb=\count170
+\c@savednameb=\count171
+\c@namec=\count172
+\c@savednamec=\count173
+\c@translator=\count174
+\c@savedtranslator=\count175
+\c@shortauthor=\count176
+\c@savedshortauthor=\count177
+\c@shorteditor=\count178
+\c@savedshorteditor=\count179
+\c@labelname=\count180
+\c@savedlabelname=\count181
+\c@institution=\count182
+\c@savedinstitution=\count183
+\c@lista=\count184
+\c@savedlista=\count185
+\c@listb=\count186
+\c@savedlistb=\count187
+\c@listc=\count188
+\c@savedlistc=\count189
+\c@listd=\count190
+\c@savedlistd=\count191
+\c@liste=\count192
+\c@savedliste=\count193
+\c@listf=\count194
+\c@savedlistf=\count195
+\c@location=\count196
+\c@savedlocation=\count197
+\c@organization=\count198
+\c@savedorganization=\count199
+\c@origlocation=\count266
+\c@savedoriglocation=\count267
+\c@origpublisher=\count268
+\c@savedorigpublisher=\count269
+\c@publisher=\count270
+\c@savedpublisher=\count271
+\c@language=\count272
+\c@savedlanguage=\count273
+\c@pageref=\count274
+\c@savedpageref=\count275
 \shorthandwidth=\skip51
 \shortjournalwidth=\skip52
 \shortserieswidth=\skip53
@@ -270,14 +287,14 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2016/05/14 v3.4 biblatex compatibility (PK/JW/AB)
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/blx-bibtex.def
-File: blx-bibtex.def 2016/05/14 v3.4 biblatex compatibility (PK/JW/AB)
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
 
 
 Package biblatex Warning: Using fall-back BibTeX(8) backend:
@@ -286,39 +303,39 @@ Package biblatex Warning: Using fall-back BibTeX(8) backend:
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2016/05/14 v3.4 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count275
-\c@textcitetotal=\count276
-\c@textcitemaxnames=\count277
-\c@biburlnumpenalty=\count278
-\c@biburlucpenalty=\count279
-\c@biburllcpenalty=\count280
-\c@smartand=\count281
+ (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
+\c@textcitecount=\count276
+\c@textcitetotal=\count277
+\c@textcitemaxnames=\count278
+\c@biburlnumpenalty=\count279
+\c@biburlucpenalty=\count280
+\c@biburllcpenalty=\count281
+\c@smartand=\count282
 )
 Package biblatex Info: Trying to load bibliography style 'verbose-trad2'...
 Package biblatex Info: ... file 'verbose-trad2.bbx' found.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/verbose-trad2.bbx
-File: verbose-trad2.bbx 2016/05/14 v3.4 biblatex bibliography style (PK/JW/AB)
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/verbose-trad2.bbx
+File: verbose-trad2.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'authortitle'...
 Package biblatex Info: ... file 'authortitle.bbx' found.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
-File: authortitle.bbx 2016/05/14 v3.4 biblatex bibliography style (PK/JW/AB)
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
+File: authortitle.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2016/05/14 v3.4 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count282
-\c@bbx:relatedtotal=\count283
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count283
+\c@bbx:relatedtotal=\count284
 )))
 Package biblatex Info: Trying to load citation style 'verbose-trad2'...
 Package biblatex Info: ... file 'verbose-trad2.cbx' found.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/cbx/verbose-trad2.cbx
-File: verbose-trad2.cbx 2016/05/14 v3.4 biblatex citation style (PK/JW/AB)
+(/usr/share/texmf-dist/tex/latex/biblatex/cbx/verbose-trad2.cbx
+File: verbose-trad2.cbx 2016/09/17 v3.6 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -330,55 +347,56 @@ Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-Package graphics Info: Driver file: pdftex.def on input line 96.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count284
-))
-\Gin@req@height=\dimen104
-\Gin@req@width=\dimen105
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks16
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package biblatex Info: Trying to load language 'italian'...
 Package biblatex Info: ... file 'italian.lbx' found.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
-File: italian.lbx 2016/05/14 v3.4 biblatex localization (PK/JW/AB)
-)
-(./tesi_latex.aux)
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
+File: italian.lbx 2016/09/17 v3.6 biblatex localization (PK/JW/AB)
+) (./tesi_latex.aux)
 \openout1 = `tesi_latex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Info: Redefining \it@ocap on input line 10.
-LaTeX Info: Redefining \it@ccap on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Info: Redefining \it@ocap on input line 11.
+LaTeX Info: Redefining \it@ccap on input line 11.
 
 
 File italian.ldf warning: 
@@ -386,8 +404,41 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 10.
+italian.ldf    on input line 11.
 
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count288
+\scratchdimen=\dimen114
+\scratchbox=\box26
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen115
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Package biblatex Info: No input encoding detected.
 (biblatex)             Assuming 'ascii'.
 Package biblatex Info: Automatic encoding selection.
@@ -399,58 +450,95 @@ Package biblatex Info: Data encoding 'ascii' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'tesi_latex.bbl' found.
+
 (./tesi_latex.bbl)
-Package biblatex Info: Reference section=0 on input line 10.
-Package biblatex Info: Reference segment=0 on input line 10.
+Package biblatex Info: Reference section=0 on input line 11.
+Package biblatex Info: Reference segment=0 on input line 11.
 
-(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
-\scratchdimen=\dimen106
-\scratchbox=\box26
-\nofMPsegments=\count286
-\nofMParguments=\count287
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count288
-\MPscratchDim=\dimen107
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
-\everyMPtoPDFconversion=\toks17
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=702.78308pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 <Logo.png, id=1, 875.27pt x 875.27pt>
 File: Logo.png Graphic file (type png)
  <use Logo.png>
-Package pdftex.def Info: Logo.png used on input line 25.
+Package pdftex.def Info: Logo.png used on input line 16.
 (pdftex.def)             Requested size: 87.53212pt x 87.53212pt.
  [1
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Logo.
-png>] (./tesi_latex.toc
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Logo.png>] (./tesi_latex
+.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 9.
+ [1
 
-[1
 
 ])
 \tf@toc=\write5
@@ -522,7 +610,7 @@ Missing character: There is no ™ in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--167
+Underfull \hbox (badness 10000) in paragraph at lines 82--174
 
  []
 
@@ -535,14 +623,14 @@ Missing character: There is no ™ in font cmr12!
 File: dagherrotipo.jpg Graphic file (type jpg)
 
 <use dagherrotipo.jpg>
-Package pdftex.def Info: dagherrotipo.jpg used on input line 183.
+Package pdftex.def Info: dagherrotipo.jpg used on input line 190.
 (pdftex.def)             Requested size: 160.59715pt x 103.58514pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--196
+Underfull \hbox (badness 10000) in paragraph at lines 193--203
 
  []
 
@@ -554,19 +642,19 @@ Missing character: There is no ù in font cmr12!
 File: SLR_cross_section.jpg Graphic file (type jpg)
 
 <use SLR_cross_section.jpg>
-Package pdftex.def Info: SLR_cross_section.jpg used on input line 267.
+Package pdftex.def Info: SLR_cross_section.jpg used on input line 274.
 (pdftex.def)             Requested size: 180.67638pt x 147.25125pt.
 Missing character: There is no à in font cmr12!
 Missing character: There is no à in font cmr12!
 Missing character: There is no ù in font cmr12!
 Missing character: There is no à in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--322
+Underfull \hbox (badness 10000) in paragraph at lines 279--329
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--322
+Underfull \hbox (badness 10000) in paragraph at lines 279--329
 
  []
 
@@ -574,27 +662,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 272--322
 Capitolo 2.
 Missing character: There is no à in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--451
+Underfull \hbox (badness 10000) in paragraph at lines 356--458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--451
+Underfull \hbox (badness 10000) in paragraph at lines 356--458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--451
+Underfull \hbox (badness 10000) in paragraph at lines 356--458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--451
+Underfull \hbox (badness 10000) in paragraph at lines 356--458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--451
+Underfull \hbox (badness 10000) in paragraph at lines 356--458
 
  []
 
@@ -608,23 +696,23 @@ Capitolo 3.
 Missing character: There is no è in font cmr12!
 Missing character: There is no ò in font cmr12!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 542.
+(Font)              <7> on input line 549.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 542.
+(Font)              <5> on input line 549.
  [21] [22] <cartellino.jpg, id=82, 1140.26pt x 883.3pt>
 File: cartellino.jpg Graphic file (type jpg)
 
 <use cartellino.jpg>
-Package pdftex.def Info: cartellino.jpg used on input line 546.
+Package pdftex.def Info: cartellino.jpg used on input line 553.
 (pdftex.def)             Requested size: 273.66798pt x 211.99632pt.
  [23] <datt.jpg, id=89, 406.8801pt x 144.90135pt>
 File: datt.jpg Graphic file (type jpg)
 
 <use datt.jpg>
-Package pdftex.def Info: datt.jpg used on input line 560.
+Package pdftex.def Info: datt.jpg used on input line 567.
 (pdftex.def)             Requested size: 366.1887pt x 130.40999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 564--578
+Underfull \hbox (badness 10000) in paragraph at lines 571--585
 
  []
 
@@ -632,93 +720,122 @@ Underfull \hbox (badness 10000) in paragraph at lines 564--578
 <rilievi.jpg, id=97, 582.175pt x 517.935pt>
 File: rilievi.jpg Graphic file (type jpg)
  <use rilievi.jpg>
-Package pdftex.def Info: rilievi.jpg used on input line 611.
+Package pdftex.def Info: rilievi.jpg used on input line 618.
 (pdftex.def)             Requested size: 116.43294pt x 103.58516pt.
  [26 <./rilievi.jpg>] <sopralluogo.jpg, id=101, 857.2025pt x 550.055pt>
 File: sopralluogo.jpg Graphic file (type jpg)
  <use sopralluogo.jpg>
-Package pdftex.def Info: sopralluogo.jpg used on input line 634.
+Package pdftex.def Info: sopralluogo.jpg used on input line 641.
 (pdftex.def)             Requested size: 342.87492pt x 220.0181pt.
 
 [27 <./sopralluogo.jpg>] [28] [29] [30] [31]
 Capitolo 4.
 [32
 
-]
-Overfull \hbox (3.09453pt too wide) in paragraph at lines 795--818
-\OT1/cmr/m/n/12 Attraverso que-sto pro-gram-ma ^^Se pos-si-bi-le ef-fet-tua-re 
-ri-toc-chi pro-fes-sio-na-li usan-
+] [33] [34]
+Underfull \hbox (badness 1776) in paragraph at lines 877--877
+[][]\OT1/cmr/m/n/10 ``Variazione ca-sua-le (non pre-sen-te nel-l'og-get-to fo-t
+o-gra-fa-to) del-la lu-mi-no-sit^^Sa o del-le
  []
 
-[33] [34] [35] [36]
-Underfull \hbox (badness 10000) in paragraph at lines 901--925
+[35] [36]
+Underfull \hbox (badness 10000) in paragraph at lines 908--932
 
  []
 
 <targa2.jpg, id=135, 1668.2325pt x 590.205pt>
 File: targa2.jpg Graphic file (type jpg)
  <use targa2.jpg>
-Package pdftex.def Info: targa2.jpg used on input line 928.
+Package pdftex.def Info: targa2.jpg used on input line 935.
 (pdftex.def)             Requested size: 166.83302pt x 59.02396pt.
 
 <targa.jpg, id=136, 1469.49pt x 578.16pt>
 File: targa.jpg Graphic file (type jpg)
  <use targa.jpg>
-Package pdftex.def Info: targa.jpg used on input line 935.
+Package pdftex.def Info: targa.jpg used on input line 942.
 (pdftex.def)             Requested size: 293.89279pt x 115.62994pt.
- [37 <./targa2.jpg>]
-<misure.jpg, id=140, 1399.2275pt x 483.8075pt>
+
+<misure.jpg, id=137, 1399.2275pt x 483.8075pt>
 File: misure.jpg Graphic file (type jpg)
  <use misure.jpg>
-Package pdftex.def Info: misure.jpg used on input line 942.
+Package pdftex.def Info: misure.jpg used on input line 949.
 (pdftex.def)             Requested size: 279.84055pt x 96.75978pt.
 
-<misure2.jpg, id=141, 1425.325pt x 419.5675pt>
+<misure2.jpg, id=138, 1425.325pt x 419.5675pt>
 File: misure2.jpg Graphic file (type jpg)
  <use misure2.jpg>
-Package pdftex.def Info: misure2.jpg used on input line 949.
+Package pdftex.def Info: misure2.jpg used on input line 956.
 (pdftex.def)             Requested size: 285.05995pt x 83.912pt.
- [38 <./targa.jpg> <./misure.jpg> <./misure2.jpg>]
+ [37 <./targa2.jpg>] [38 <./targa.jpg> <./misure.jpg> <./misure2.jpg>]
 Missing character: There is no à in font cmr12!
  [39] [40]
 Capitolo 5.
 [41
 
-] [42] [43] [44]
+] [42] [43] [44] [45]
+Missing character: There is no « in font cmti12!
+Missing character: There is no » in font cmti12!
 
-LaTeX Warning: Empty bibliography on input line 1086.
+Overfull \hbox (31.89268pt too wide) in paragraph at lines 1094--1094
+\OT1/cmr/m/it/12 CHE\OT1/cmr/m/n/12 . [On-li-ne; in da-ta 5-gennaio-2017]. 2014
+. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : $\OT1/cmtt/m/n/12 http : / / www . osse
+rvatoreitalia .
+ []
 
-[45] (./tesi_latex.aux)
+Missing character: There is no è in font cmti12!
+[46
 
-LaTeX Warning: There were undefined references.
+]
+Missing character: There is no « in font cmti12!
+Missing character: There is no é in font cmti12!
+Missing character: There is no è in font cmti12!
+
+Overfull \hbox (0.68282pt too wide) in paragraph at lines 1094--1094
+[][]\OT1/cmr/m/n/12 Panorama. \OT1/cmr/m/it/12 Ca-so Ya-ra: perch Bos-set-ti  s
+ta-to con-dan-na-to\OT1/cmr/m/n/12 . [On-li-ne; in da-ta 5-gennaio-
+ []
 
 
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                tesi_latex
-(biblatex)                and rerun LaTeX afterwards.
+Overfull \hbox (15.16103pt too wide) in paragraph at lines 1094--1094
+\OT1/cmr/m/n/12 gennaio-2017]. 2011. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : $\OT
+1/cmtt/m/n/12 https : / / iapp . dinfo . unifi . it / uploads / documents /
+ []
+
+Missing character: There is no è in font cmti12!
+[47] [48]
+Overfull \hbox (1.16658pt too wide) in paragraph at lines 1094--1094
+[][][]\OT1/cmr/m/it/12 Single-lens re-flex --- Wi-ki-pe-dia, L'en-ci-clo-pe-dia
+ li-be-ra\OT1/cmr/m/n/12 . [On-li-ne; in da-ta 5-gennaio-
+ []
+
+[49] (./tesi_latex.aux)
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'tesi_latex.run.xml'.
 \openout1 = `tesi_latex.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8430 strings out of 493014
- 142797 string characters out of 6133351
- 387540 words of memory out of 5000000
- 11875 multiletter control sequences out of 15000+600000
- 8847 words of font info for 31 fonts, out of 8000000 for 9000
+ 9591 strings out of 493013
+ 162917 string characters out of 6139317
+ 418854 words of memory out of 5000000
+ 13028 multiletter control sequences out of 15000+600000
+ 9317 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,8n,37p,981b,1142s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on tesi_latex.pdf (46 pages, 1929121 bytes).
+ 41i,8n,45p,981b,1164s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on tesi_latex.pdf (50 pages, 1966095 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
+ 212 PDF objects out of 1000 (max. 8388607)
+ 138 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

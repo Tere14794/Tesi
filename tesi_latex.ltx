@@ -2,54 +2,61 @@
 
 \usepackage[italian]{babel}
 \usepackage[babel]{csquotes}
-\usepackage[backend=bibtex,style=verbose-trad2]{biblatex}
 \usepackage{graphicx}
+\usepackage[backend=bibtex,style=verbose-trad2]{biblatex}
+\usepackage[paper=a4paper]{geometry}
 
 \bibliography{bibliografia}
 
 \begin{document}
 
+\newgeometry{top=2.5cm,bottom=2.5cm,left=1.5cm,right=1.5cm}
 \begin{titlepage}
-%\Universita{Perugia}
-%\Logo{logo.gif}
-%\Dipartimento{di Filosofia,Scienze Sociali,Umane e della Formazione}
-%\Corso{Scienze per l'Investigazione e la Sicurezza}
-%\Annoaccademico{2015--2016}
-%\Titolo{Fotografia Forense.}
-%\Sottotitolo{Storia, applicazioni e casi risolti.}
-%\NCandidato{Laureando}[268152]{Teresa Sosta}
-%\Relatore{Emanuele Florindi.}
     \begin{center}
-        \vspace*{1cm}
-        
         \includegraphics[scale=0.1]{Logo.png}
-        
-        \textbf{Thesis Title}
-        
+
         \vspace{0.5cm}
-        Thesis Subtitle
+        {\large \textbf{UNIVERSIT\'A DEGLI STUDI DI PERUGIA}}\\
+        {\large \textbf{Dipartimento di Filosofia, Scienze Sociali, Umane e della Formazione}}
+        \vspace{1cm}
+
+        {\large Corso di Laurea}\\
+        {\large in}\\
+        {\large Scienze per l'Investigazione e la Sicurezza}
+        \vspace{6cm}
         
-        \vspace{1.5cm}
-        
-        \textbf{Author Name}
+        {\Large \textbf{Fotografia Forense}}\\
+        \vspace{0.1cm}
+        {\large \textbf{Storia, applicazioni e casi risolti}}
         
         \vfill
+
+        % {\begin{center}
+        %     RELATORE\\
+        %     \vspace{0.1cm}
+        %     Prof. Emanuele Florindi
+        % \end{center}
+        % \hfill
+        % \begin{center}
+        %     LAUREANDO\\
+        %     \vspace{0.1cm}
+        %     Teresa Sosta\\
+        %     matricola 268152
+        % \end{center}}
+
+        RELATORE \hfill LAUREANDO\\
+        Prof. Emanuele Florindi \hfill Teresa Sosta\\
+        \hfill matricola 258152
         
-        A thesis presented for the degree of\\
-        Doctor of Philosophy
+        \vspace{2cm}
         
-        \vspace{0.8cm}
-        
-        Department Name\\
-        University Name\\
-        Country\\
-        Date
-        
+        {\large \textbf{Anno Accademico 2015-2016}}
+
     \end{center}
 \end{titlepage}
 
 % Indici vari
-
+\restoregeometry
 \tableofcontents
 
 % Capitolo 1
